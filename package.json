@@ -49,7 +49,7 @@
   "author": "Aleksej Konstantinov",
   "repository": {
     "type": "git",
-    "url": "https://github.com/BlackMamba313/smart-payload.git"
+    "url": "git+https://github.com/BlackMamba313/smart-payload.git"
   },
   "homepage": "https://github.com/BlackMamba313/smart-payload#readme",
   "bugs": {
