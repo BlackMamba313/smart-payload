@@ -46,7 +46,7 @@
     "axios",
     "typescript"
   ],
-  "author": "Aleksej Konstantinov",
+  "author": "Aleksei Konstantinov",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/BlackMamba313/smart-payload.git"
