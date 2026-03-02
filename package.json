@@ -1,6 +1,6 @@
 {
   "name": "smart-payload",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Framework-agnostic payload serializer for JSON, FormData, and URLSearchParams.",
   "type": "module",
   "main": "./dist/index.cjs",
